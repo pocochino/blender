@@ -1,4 +1,4 @@
-FILENAME=Miraikomachi.blend
+FILENAME=kitten.blend
 START=1
 END=250
 VIDEO=1
