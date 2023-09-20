@@ -1,0 +1,5 @@
+FILENAME=Miraikomachi.blend
+START=1
+END=250
+VIDEO=1
+PYTHONFILENAME=main.py
